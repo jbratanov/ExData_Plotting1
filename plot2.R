@@ -1,10 +1,10 @@
 #
-# plot1.R creates plot1.png graph
+# plot2.R creates plot2.png graph
 #
 library(datasets)
 #
 # Read ExtractPlotData function to extract dates
-# and format file required for plot1 graph.
+# and format file required for plot2 graph.
 # Current version extracts data for Feb 1-2, 2007
 #
 plotData_DF <- ExtractPlotData()
